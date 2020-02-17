@@ -10,7 +10,6 @@ pool:
   vmImage: 'vs2017-win2016'
 
 steps:
-
 -task: katalonTask@0
 displayName: ‘Execute Katalon Studio project’
 inputs:
